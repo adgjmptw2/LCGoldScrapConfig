@@ -1,0 +1,10 @@
+{
+  "name": "GoldScrapConfig",
+  "version_number": "0.1.0",
+  "website_url": "",
+  "description": "LCGoldScrapMod addon: Ore/Crown/Each item config",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305",
+    "SimonTendo-LCGoldScrapMod-2.2.6"
+  ]
+}
