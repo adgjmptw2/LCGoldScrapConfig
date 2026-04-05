@@ -1,0 +1,2 @@
+# LCGoldScrapConfig
+LCGoldScrapMod Addon
